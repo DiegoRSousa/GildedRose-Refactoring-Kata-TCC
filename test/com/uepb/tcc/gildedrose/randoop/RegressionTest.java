@@ -1,4 +1,4 @@
-package com.uepb.tcc.gildedrose;
+package com.uepb.tcc.gildedrose.randoop;
 
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
