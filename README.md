@@ -34,4 +34,4 @@ Sinta-se livre para fazer qualquer alteração no método `updateQuality` e adicion
 
 Para esclarecer: Um item não pode ter uma qualidade (`quality`) maior que `50`, entretanto as "Sulfuras" por serem um item lendário vão ter uma qualidade imutavel de `80`.
 
-[fonte](https://github.com/emilybache/GildedRose-Refactoring-Kata)
+O código utilizado neste repositório está disponível em: [fonte](https://github.com/emilybache/GildedRose-Refactoring-Kata)
